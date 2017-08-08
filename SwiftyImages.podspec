@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 s.platform = :ios
-s.ios.deployment_target = '9.3'
+s.ios.deployment_target = '8.0'
 s.name = "SwiftyImages"
 s.summary = "A set of efficient extensions and classes for manipulating images and colors."
 s.requires_arc = true
